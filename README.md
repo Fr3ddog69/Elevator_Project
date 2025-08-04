@@ -82,7 +82,7 @@ It was developed as part of a university research project, with an emphasis on p
 
 ```bash
   cd Elevator_Modell_Simulation
-  python main.py
+  python main.py```
 
 - **Training Environment:**
   ```bash
