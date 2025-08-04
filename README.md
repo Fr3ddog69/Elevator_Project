@@ -64,31 +64,5 @@ It was developed as part of a university research project, with an emphasis on p
 
 ---
 
-## Getting Started
 
-### Requirements
-
-- Python 3.12.10
-- All dependencies will be listed in `requirements.txt` (to be added soon)
-- Stable Baselines3, sb3-contrib, Gymnasium, NumPy, Pygame, Matplotlib
-
-### Running Experiments
-
-- **Classic scan-based control:**  
-  ```bash
-  cd Elevator_Scanning
-  python main.py
-  
-- **Simulation with RL-trained model:**
-
-```bash
-  cd Elevator_Modell_Simulation
-  python main.py
-
----
-### Hallo as
-- **Training Environment:**
-  ```bash
-    cd Elevator_Reinforcement_Training
-    python resume_training.py
 
