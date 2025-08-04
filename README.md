@@ -77,6 +77,7 @@ It was developed as part of a university research project, with an emphasis on p
   ```bash
   cd Elevator_Scanning
   python main.py
+  ```
   
 - **Simulation with RL-trained model:**
 
