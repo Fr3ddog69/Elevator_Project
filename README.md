@@ -92,4 +92,36 @@ It was developed as part of a university research project, with an emphasis on p
     python resume_training.py
   ```
 
+For more details, see `Documentation_in_german/` and code comments.
+
+---
+
+## Visualization & Evaluation
+
+- Comparative plots and metrics are included for both strategies:
+    - **Average waiting time**
+    - **Average ride time**
+    - **Total time spent**
+- All visualizations and plots were created using **Matplotlib**.
+- Visual simulation of the environment is available via the integrated Pygame interface.
+- All evaluation code and result figures are included in the documentation.
+
+---
+
+## Notes
+
+- RL training was performed on CPU; convergence times can be long.
+- Only single-elevator RL was trained for performance reasons, but the environments support multiple elevators.
+- Action masking helped prevent degenerate strategies (e.g., "waiting forever").
+- Further improvements are possible by retraining multi-elevator agents and removing masking, which was mainly used for faster convergence.
+
+---
+
+## Contact
+
+Feel free to contact me if you have questions, need additional documentation, or want to discuss further improvements.
+
+---
+
+**This project demonstrates practical multi-agent reinforcement learning in a real-world inspired logistics setting and provides a transparent benchmark against classic heuristics.**
 
