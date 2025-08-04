@@ -85,10 +85,13 @@ It was developed as part of a university research project, with an emphasis on p
   cd Elevator_Modell_Simulation
   python main.py
 
-
+- **Classic scan-based control:**  
+  ```bash
+  cd Elevator_Scanning
+  python main.py
 
 - **Training Environment:**
-```bash
-cd Elevator_Reinforcement_Training
-python resume_training.py
+  ```bash
+    cd Elevator_Reinforcement_Training
+    python resume_training.py
 
