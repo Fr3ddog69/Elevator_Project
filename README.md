@@ -68,7 +68,6 @@ It was developed as part of a university research project, with an emphasis on p
 ### Requirements
 
 - Python 3.12.10
-- All dependencies will be listed in `requirements.txt` (to be added soon)
 - Stable Baselines3, sb3-contrib, Gymnasium, NumPy, Pygame, Matplotlib
 
 ### Running Experiments
